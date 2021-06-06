@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+h2{
+    font-size: 30px;
+}
+.name-color{
+    color: deeppink;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
