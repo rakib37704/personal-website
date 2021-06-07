@@ -31,7 +31,7 @@ section{
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(180deg,deeppink);
+    background-image: linear-gradient(180deg, #F46060, #FF8063);
     padding: 10px,20px;
     border-radius: 5px;
     color: white;
