@@ -31,9 +31,9 @@ section{
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(180deg,lightsalmon,tomato);
+    background-image: linear-gradient(180deg,lightsalmon,pink);
     padding: 10px,20px;
-    border-radius: 10px;
+    border-radius: 5px;
     color: white;
     font-weight: 700;
     letter-spacing: 1px;
