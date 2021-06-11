@@ -39,7 +39,7 @@ section{
     letter-spacing: 1px;
 }
 .about-area{
-    background-image: url(images/biography-bg.png);
+    background-image: url("images/biography-bg.png");
     background-repeat: repeat;
     background-position: right;
 }
